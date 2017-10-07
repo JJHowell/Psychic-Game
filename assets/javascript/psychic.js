@@ -1,9 +1,9 @@
     var compD;
     var wins = 0;
     var losses = 0;
-    var tries = 13;
+    var tries = 10;
     var incorrect = [];
-    var resetTries = 13;
+    var resetTries = 10;
 
     function compStart() {
 
@@ -35,7 +35,6 @@
                  tries--;
                 
             }
-
            
 
             gamePlay();
