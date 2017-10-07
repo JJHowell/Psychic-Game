@@ -1,0 +1,30 @@
+
+*{
+	margin:0px;
+	padding:0px;
+}
+
+
+#container{	
+	max-width:2000px;
+	height:2000px;
+	margin:20px auto;
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+	-webkit-box-flex:1;	
+	background:url(../images/JustinBackground.jpg);
+	
+
+
+		}
+
+
+
+#game { 
+		margin-top:10%;
+		text-align:center;
+		line-height: 70px;
+		color:white;
+		font-size: 45px;
+
+		}
